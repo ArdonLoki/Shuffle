@@ -8,5 +8,6 @@ namespace Shuffle
 {
     internal class Class1
     {
+
     }
 }
